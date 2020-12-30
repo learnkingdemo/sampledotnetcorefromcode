@@ -14,9 +14,9 @@ namespace sampledotnetcore.Controllers
     {
         static List<EmployeeClass> employees = new List<EmployeeClass>()
         {
-            new EmployeeClass{empID = "4",empName = "Muthu",empEmailID = "muthu@nokia.com",jobTitle = "Tech lead"},
-            new EmployeeClass{empID = "5",empName = "samy",empEmailID = "samy@nokia.com",jobTitle = "lead"},
-            new EmployeeClass{empID = "6",empName = "divya",empEmailID = "divya@nokia.com",jobTitle = "manager"}
+            new EmployeeClass{empID = "7",empName = "Muthu",empEmailID = "muthu@nokia.com",jobTitle = "Tech lead"},
+            new EmployeeClass{empID = "8",empName = "samy",empEmailID = "samy@nokia.com",jobTitle = "lead"},
+            new EmployeeClass{empID = "9",empName = "divya",empEmailID = "divya@nokia.com",jobTitle = "manager"}
 
         };
 
